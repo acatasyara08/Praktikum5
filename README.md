@@ -1,11 +1,6 @@
 ## Nama : Tasyah Ramadani
 ## Nim  : 312510223
 
- PENJELASAN PROGRAM SECARA LENGKAP
-
-Program ini digunakan untuk mengelola daftar nilai mahasiswa menggunakan dictionary di Python.
-Pengguna dapat menambah, mengubah, menghapus, menampilkan, dan mencari data mahasiswa.
-
  1. Dictionary Data Mahasiswa
 data_mahasiswa = {}
 
